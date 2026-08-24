@@ -17,29 +17,15 @@ Figma to deployment. Based in Nigeria, available worldwide.
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akintolaadeyi-gif&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ### 🚀 Things I've shipped
 
-<p align="center">
-  <a href="https://pitchiq.vercel.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=pitchiq&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://ojuiboju.vercel.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=OJUIBOJU&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://canannimpact.org">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=canann-ng&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| ⚽ **PitchIQ** | Real-time sports dashboard with Claude AI match commentary | Next.js · TypeScript · Supabase · Claude | [pitchiq.vercel.app](https://pitchiq.vercel.app) |
+| 🎬 **Ojú Ibojú** | Full-stack Yoruba cinema streaming platform with AI film creator | React · Node · Express · Railway | [ojuiboju.vercel.app](https://ojuiboju.vercel.app) |
+| 🌱 **Canann Impact** | NGO website serving 1,200+ digital literacy learners | Next.js · Tailwind · Framer Motion | [canannimpact.org](https://canannimpact.org) |
+| 🏢 **Folde Studio** | Agency site + AI-powered HR platform frontend | Next.js · Claude AI | In production |
+
 ---
 
 ### 🧠 Currently building
@@ -73,10 +59,6 @@ Next.js + Supabase pgvector + Claude AI. Repo dropping soon.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akintolaadeyi-gif&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akintolaadeyi-gif&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
@@ -97,10 +79,4 @@ If you have something worth building, let's talk.
   <a href="https://github.com/akintolaadeyi-gif">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akintolaadeyi-gif/akintolaadeyi-gif/output/github-snake-dark.svg" />
 </p>
