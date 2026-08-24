@@ -32,15 +32,14 @@ Figma to deployment. Based in Nigeria, available worldwide.
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=pitchiq&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://ojuiboju.vercel.app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=ojuiboju&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=OJUIBOJU&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
   <a href="https://canannimpact.org">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=canann&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akintolaadeyi-gif&repo=canann-ng&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
 ---
 
 ### 🧠 Currently building
