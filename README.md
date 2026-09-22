@@ -21,8 +21,8 @@ Figma to deployment. Based in Nigeria, available worldwide.
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| ⚽ **PitchIQ** | Real-time sports dashboard with live match data, AI-generated commentary powered by Claude, and an interactive match experience | Next.js · React · TypeScript · Supabase · Claude SDK || [pitchiq.vercel.app](https://pitchiq.vercel.app) |
-(https://pitchiq.vercel.app) 
+| ⚽ **PitchIQ** | Real-time sports dashboard with live match data, AI-generated commentary powered by Claude, and an interactive match experience | Next.js · React · TypeScript · Supabase · Claude SDK || [pitchiq.vercel.app](https://pitchiq.vercel.app) | (https://pitchiq.vercel.app)
+ 
 | 🎬 **Ojú Ibojú** | Full-stack Yoruba cinema streaming platform with AI film creator | React · Node · Express · Railway | [ojuiboju.vercel.app](https://ojuiboju.vercel.app) |
 | 🌱 **Canann Impact** | NGO website serving 1,200+ digital literacy learners | Next.js · Tailwind · Framer Motion | [canannimpact.org](https://canannimpact.org) |
 | 🏢 **Folde Studio** | Agency site + AI-powered HR platform frontend | Next.js · Claude AI | In production |
